@@ -63,7 +63,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.0/purify.min.js"></script>
   <script>
     // Initialize markdown-it
-    const md = window.markdownit();
+    const md = window.markdownit({
+      breaks: true
+    });
 
     // Fetch the Markdown file
     fetch('posts/on-directai.md')

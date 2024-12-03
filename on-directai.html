@@ -6,6 +6,8 @@
     @media not handheld {
         #markdown-content {
             max-width: 500px; /* Limit the width for larger screens */
+            padding: 20px;
+            margin: 20px auto; /* Center the element horizontally */
         }
 
     }
@@ -13,13 +15,14 @@
     @media handheld {
         #markdown-content {
             max-width: 100%;
+            padding: 10%; /* Adjust padding to percentage */
+            margin: 10% auto; /* Adjust margin to percentage */
         }
 
     }
     #markdown-content {
         border: 1px solid #ccc;
-        padding: 20px;
-        margin: 20px auto; /* Center the element horizontally */
+        
         font-family: Arial, sans-serif;
         line-height: 1.6; /* Improve line spacing for better readability */
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */

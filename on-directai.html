@@ -3,11 +3,11 @@
 <head>
   <titleReflections on a Failed Computer Vision Startup</title>
   <style>
-    /* @media not handheld {
+    @media not handheld {
         #markdown-content {
             max-width: 500px;
             padding: 20px;
-            margin: 20px auto;
+            margin: auto;
         }
 
     }
@@ -16,10 +16,23 @@
         #markdown-content {
             max-width: 100%;
             padding: 10%;
-            margin: 10% auto; 
+            margin: auto; 
         }
 
-    } */
+    }
+    #back-button {
+        position: absolute;
+        top: 20px; /* Adjust as needed to align vertically with the h1 */
+        left: 20px; /* Adjust as needed for desired horizontal position */
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
     #markdown-content {
         border: 1px solid #ccc;
         max-width: 500px; /* Limit the width for larger screens */
@@ -33,10 +46,13 @@
     h1 {
         text-align: center; /* Center the text horizontally */
         font-family: Arial, sans-serif;
+        margin-top: 60px;
     }
   </style>
 </head>
 <body>
+  <button id="back-button" onclick="window.location.href='index.html'">Back to Home</button>
+  <h1>Reflections on a Failed Computer Vision Startup</h1>
   <h1>Reflections on a Failed Computer Vision Startup</h1>
   <div id="markdown-content">Loading...</div>
 

@@ -13,9 +13,9 @@
 
     @media (max-width: 1000px) {
         #markdown-content {
-            max-width: 100%;
+            max-width: 90%;
             padding: 5%;
-            margin: 10% auto;
+            margin: 5% auto;
         }
     } 
     
@@ -57,7 +57,6 @@
 <body>
   <button id="back-button" onclick="window.location.href='index.html'">Back to Home</button>
   <h1>Reflections on a Failed Computer Vision Startup</h1>
-  <div id="screen-size"></div>
   <div id="markdown-content">Loading...</div>
 
   <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
@@ -65,10 +64,6 @@
   <script>
     // Initialize markdown-it
     const md = window.markdownit();
-    const screenSizeElement = document.getElementById('screen-size');
-    const screenHeight = window.innerHeight;
-    const screenWidth = window.innerWidth;
-    screenSizeElement.innerHTML = `Screen Height: ${screenHeight}px, Screen Width: ${screenWidth}px`;
 
     // Fetch the Markdown file
     fetch('posts/on-directai.md')

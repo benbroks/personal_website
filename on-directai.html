@@ -9,17 +9,8 @@
             padding: 20px;
             margin: auto;
         }
-
     }
 
-    @media handheld {
-        #markdown-content {
-            max-width: 100%;
-            padding: 10%;
-            margin: auto; 
-        }
-
-    }
     #back-button {
         position: absolute;
         top: 20px; /* Adjust as needed to align vertically with the h1 */
@@ -35,9 +26,6 @@
   }
     #markdown-content {
         border: 1px solid #ccc;
-        max-width: 500px; /* Limit the width for larger screens */
-        padding: 20px;
-        margin: auto;  /* Center the element horizontally */
         font-family: Arial, sans-serif;
         line-height: 1.6; /* Improve line spacing for better readability */
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
@@ -53,7 +41,7 @@
 <body>
   <button id="back-button" onclick="window.location.href='index.html'">Back to Home</button>
   <h1>Reflections on a Failed Computer Vision Startup</h1>
-  <h1>Reflections on a Failed Computer Vision Startup</h1>
+  <div id="screen-size"></div>
   <div id="markdown-content">Loading...</div>
 
   <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
@@ -61,6 +49,10 @@
   <script>
     // Initialize markdown-it
     const md = window.markdownit();
+    const screenSizeElement = document.getElementById('screen-size');
+    const screenHeight = window.innerHeight;
+    const screenWidth = window.innerWidth;
+    screenSizeElement.innerHTML = `Screen Height: ${screenHeight}px, Screen Width: ${screenWidth}px`;
 
     // Fetch the Markdown file
     fetch('posts/on-directai.md')

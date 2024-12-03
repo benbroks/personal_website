@@ -1,6 +1,5 @@
 What if you could solve your computer vision problems without collecting or labeling any data?  
-  
-
+<br />
 That was the question that sparked DirectAI, a company where I ([Ben Brooks](https://www.brooks.team/)) spent the past 1.5 years as a co-founder with [Isaac Robinson](https://www.linkedin.com/in/robinsonish/). In September 2024, we began the process of shutting it down. This is the story of what we learned \- about building software, about sales, and about the challenge of making something people want.  
   
 

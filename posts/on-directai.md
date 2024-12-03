@@ -63,13 +63,13 @@ While we proudly served a handful of dedicated customers, after several product/
 
 In reflecting on this experience, I keep coming back to this [Peter Thiel interview](https://tim.blog/wp-content/uploads/2018/07/28-peter-thiel.pdf):
 
-Blake Masters: How important is failure in business?
-
-Peter Thiel: Well, I think failure is massively overrated. Most businesses fail for more than one reason. And so when a business fails, you often don’t learn anything at all because the failure was over determined. You will think it failed for Reason 1, but it failed for Reasons 1 through 5\. And so the next business you start will fail for Reason 2, and then for 3 and so on. 
-
-And so I think people actually do not learn very much from failure. And I think it ends up being quite damaging and demoralizing to people in the long run. And my sense is that the death of every business is a tragedy. It’s not some sort of beautiful esthetic where there’s a lot of carnage, but that’s how progress happens. And it’s not some sort of educational imperative. So I think failure is neither a Darwinian nor an educational imperative. Failure is always simply a tragedy.
-
-We attempted to sell technology into a few market segments and it didn’t align with customer needs. We can and should try our best to learn from that negative outcome, but sometimes all you can do is lightly update your priors and try again. 
+> Blake Masters: How important is failure in business?
+> 
+> Peter Thiel: Well, I think failure is massively overrated. Most businesses fail for more than one reason. And so when a business fails, you often don’t learn anything at all because the failure was over determined. You will think it failed for Reason 1, but it failed for Reasons 1 through 5\. And so the next business you start will fail for Reason 2, and then for 3 and so on. 
+> 
+> And so I think people actually do not learn very much from failure. And I think it ends up being quite damaging and demoralizing to people in the long run. And my sense is that the death of every business is a tragedy. It’s not some sort of beautiful esthetic where there’s a lot of carnage, but that’s how progress happens. And it’s not some sort of educational imperative. So I think failure is neither a Darwinian nor an educational imperative. Failure is always simply a tragedy.
+> 
+> We attempted to sell technology into a few market segments and it didn’t align with customer needs. We can and should try our best to learn from that negative outcome, but sometimes all you can do is lightly update your priors and try again.
 
 P.S. If you’re interested in reading more about DirectAI’s journey, we’ve also open-sourced a year’s worth of our [friends+family updates](https://buttondown.com/ben_startup).  
 

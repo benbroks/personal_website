@@ -15,7 +15,7 @@
         #markdown-content {
             max-width: 90%;
             padding: 5%;
-            margin: 5% auto;
+            margin: 5%;
         }
     } 
     
@@ -31,8 +31,8 @@
         position: absolute;
         top: 20px; /* Adjust as needed to align vertically with the h1 */
         left: 20px; /* Adjust as needed for desired horizontal position */
-        padding: 5px 10px;
-        font-size: 8px;
+        padding: 7.5px 15px;
+        font-size: 12px;
         cursor: pointer;
         background-color: #007BFF;
         color: white;
@@ -69,7 +69,7 @@
     });
 
     // Fetch the Markdown file
-    fetch('posts/on-directai.md')
+    fetch('on-directai.md')
       .then(response => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);

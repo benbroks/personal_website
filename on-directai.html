@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <textarea id="markdown" style="width: 100%; height: 200px;"># Hello Markdown</textarea>
+  <div id="output"></div>
+  <script>
+    const input = document.getElementById("markdown");
+    const output = document.getElementById("output");
+
+    // Fetch and render the markdown file
+    fetch('posts/on-directai.md')
+      .then(response => response.text())
+      .then(data => {
+        input.value = data; // Set the textarea with the fetched markdown
+        output.innerHTML = marked(data); // Render the markdown
+      });
+
+    input.addEventListener("input", () => {
+      output.innerHTML = marked(input.value);
+    });
+
+    // Initial render
+    // output.innerHTML = marked(input.value); // This line is no longer needed
+  </script>
+</body>
+</html>

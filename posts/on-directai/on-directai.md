@@ -44,7 +44,7 @@ Imagine you have a piece of technology that speeds up a component of someone’s
   
 ![Bad workflow diagram][image3]  
 
-![Quick workflow diagram][image4]{: style="max-width: 600px"} 
+![Quick workflow diagram][image4]
   
   
 if your customer needs to context switch between their old workflow and your tool, it may actually be a net-worse experience. If they have to assemble hardware and set up your software to solve their problem, you might not make it past the first sales call. All kinds of momentum exists to prevent adoption, even if you think your product is an obvious choice. This is why you need to ensure you’re targeting a wicked problem and building a solution that’s [10x better than the competition](https://www.fastcompany.com/1738509/heres-why-your-product-needs-be-10x-better-competition-win).  

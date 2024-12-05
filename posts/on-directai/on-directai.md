@@ -103,7 +103,9 @@ In reflecting on this experience, I keep coming back to this [Peter Thiel interv
 We attempted to sell technology into a few market segments and it didn’t align with customer needs. We can and should try our best to learn from that negative outcome, but sometimes all you can do is lightly update your priors and try again.  
   
   
-P.S. If you’re interested in reading more about DirectAI’s journey, we’ve also open-sourced a year’s worth of our [friends+family updates](https://buttondown.com/ben_startup/archive/).  
+P.S. If you’re interested in reading more about DirectAI’s journey, we’ve also open-sourced a year’s worth of our [friends+family updates](https://buttondown.com/ben_startup/archive/).
+
+Reach me at benjamin.james.brooks@gmail.com
 
 
 [image1]: </images/detector_config.png>

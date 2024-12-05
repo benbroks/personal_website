@@ -44,11 +44,10 @@ Imagine you have a piece of technology that speeds up a component of someone’s
   
 ![Bad workflow diagram][image3]  
 
-![Quick workflow diagram][image4]
-  
-  
+
 if your customer needs to context switch between their old workflow and your tool, it may actually be a net-worse experience. If they have to assemble hardware and set up your software to solve their problem, you might not make it past the first sales call. All kinds of momentum exists to prevent adoption, even if you think your product is an obvious choice. This is why you need to ensure you’re targeting a wicked problem and building a solution that’s [10x better than the competition](https://www.fastcompany.com/1738509/heres-why-your-product-needs-be-10x-better-competition-win).  
-  
+
+![Quick workflow diagram][image4]
   
 At one point in our ideation process, we dropped by a manufacturing packaging conference with the intention of pitching a defect detector for items going down the manufacturing line. We saw dozens of booths of companies selling cardboard boxes, glass jars, plastic containers, and biodegradable cups. After going booth to booth talking to sales reps, we confirmed that defective products making it off the line and out to customers was a real problem. Everyone had some non-zero defect rate and they often had highly manual systems in place to prevent defects from leaving the factory floor. This often involved a bunch of people paid to sit on the line and hand-examine products one by one. At the beginning of the day, we were quite enthused about this \- it seemed like these processes were ripe for automation. While the reps expressed interest once Isaac & I mentioned we could quickly build a detection model, their follow up questions were far outside our wheelhouse. What camera system do you work with? What type of mechanism do you use to physically remove the item from the line once you realize it’s defective? What we learned is that people don’t need a defect detector, they need an end-to-end system that physically prevents defects from being packed up and shipped out.  
   

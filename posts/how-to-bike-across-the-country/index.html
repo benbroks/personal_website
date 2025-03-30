@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How to Bike Across the Country</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+	<link rel="manifest" href="/favicon_io/site.webmanifest">
+  <style>
+    @media not handheld {
+        #markdown-content {
+            max-width: 500px;
+            padding: 20px;
+            margin: auto;
+        }
+    }
+
+    @media (max-width: 1000px) {
+        #markdown-content {
+            max-width: 90%;
+            padding: 5%;
+            margin: 5%;
+        }
+        #markdown-content img {
+            max-width: 90%;
+            height: auto;
+            display: block;
+            margin: 5%;
+        }
+    } 
+    
+    @media (min-width: 1000px) {
+        #markdown-content {
+            max-width: 500px;
+            padding: 20px;
+            margin: 20px auto;
+        }
+        #markdown-content img {
+            max-width: 500px;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+    } 
+
+    #back-button {
+        position: absolute;
+        top: 20px; /* Adjust as needed to align vertically with the h1 */
+        left: 20px; /* Adjust as needed for desired horizontal position */
+        padding: 7.5px 15px;
+        font-size: 12px;
+        cursor: pointer;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+    #markdown-content {
+        border: 1px solid #ccc;
+        font-family: Arial, sans-serif;
+        line-height: 1.6; /* Improve line spacing for better readability */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+        background-color: #f9f9f9; /* Light background for better contrast */
+    }
+    h1 {
+        text-align: center; /* Center the text horizontally */
+        font-family: Arial, sans-serif;
+        margin-top: 60px;
+    }
+
+  </style>
+</head>
+<body>
+  <button id="back-button" onclick="window.location.href='/index.html'">Back to Home</button>
+  <h1>How to Bike Across the Country</h1>
+  <div id="markdown-content">Loading...</div>
+
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.0/purify.min.js"></script>
+  <script>
+    // Initialize markdown-it
+    const md = window.markdownit({
+      breaks: true,
+      html: true
+    });
+
+    // Fetch the Markdown file
+    fetch('how-to-bike-across-the-country.md')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.text();
+      })
+      .then(markdownText => {
+        // Render and sanitize the Markdown content
+        const htmlContent = DOMPurify.sanitize(md.render(markdownText));
+        document.getElementById('markdown-content').innerHTML = htmlContent;
+      })
+      .catch(error => {
+        console.error('Error fetching the Markdown file:', error);
+        document.getElementById('markdown-content').innerHTML = '<p>Error loading content.</p>';
+      });
+  </script>
+</body>
+</html>

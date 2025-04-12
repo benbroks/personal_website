@@ -16,9 +16,9 @@ With the northern sections of the TransAmerica nixed, I looked further south. Th
 ### The Prep
 
 There were a few important areas of preparation here:  
-\- Fitness Prep \-\> how do I bike every day without ripping my body apart?  
-\- Survival Prep \-\> how do I sleep comfortably every night without freezing/overheating and make sure I never run out of food & water?  
-\- Mechanical Prep \-\> how do I repair my bicycle when I don't have service and my tire goes flat?
+- Fitness Prep \-\> how do I bike every day without ripping my body apart?  
+- Survival Prep \-\> how do I sleep comfortably every night without freezing/overheating and make sure I never run out of food & water?  
+- Mechanical Prep \-\> how do I repair my bicycle when I don't have service and my tire goes flat?
 
 I bought a touring bike on Craigslist while assembling all my gear for the trip. In all honesty, my physical preparation was minimal \- I only logged a couple short practice rides around Central Park, never exceeding 30 miles. Though I did worry about my ability to bike long distances, I was confident in my general fitness. At the time, I was halfway through training for the NYC Marathon (which I ultimately skipped to finish the bike tour), and I figured that aerobic fitness would carry over well, even if my quads weren't fully conditioned. My instincts were mostly right. I was definitely sore for the first two weeks of the ride but I never got injured. The key was to push through muscle soreness but never tendon soreness. If there was a pinching or pulling sensation in my knees while I pedaled, I needed to move to a lower gear. Once I started the trip, I just woke up every morning expecting some baseline quad soreness.
 
@@ -28,7 +28,7 @@ For the reader, preparing for camping every night might require a bit more pract
 
 ![][image3]
 
-
+![][image4]
 
 I was a complete noob on the cycling maintenance side before preparing for this trip. I had never changed a tire and didn't even own a bike (just had a NYC Citibike subscription). Before I flew to San Francisco to start the ride, I had a cycling shop disassemble my bike and pack it into a cardboard box so I could check it as an oversized bag. Rebuilding the bike to kick off the trip was a great way to get familiar with my tools and the bicycle itself. If I were to relay advice to my past self, I’d also say to be prepared to grease your chain, replace a flat tire on both wheels, and use a [Quick Link](https://www.bikeradar.com/advice/workshop/chain-quick-links) on a broken chain. Luckily, I never had to fix a broken chain but my back tire did go flat 8 times during the trip and my chain would regularly detach from the gears. 
 
@@ -87,13 +87,13 @@ I generally didn't plan sleeping arrangements more than 36 hours in advance. My 
 There are loads of RV parks open for overnight bike tourists on the westside of the Rockies. They'll usually include a small campsite, access to running water, electricity, showers, and coin laundry machines. These are safe places to stay and great places to meet other traveling sightseers. They pretty much disappear once you cross over into Eastern Colorado though. There were always spots to camp along the route as I went eastward, but they were often small plots in public parks with limited access to water, showers, or bathrooms. I'd often have to call the local sheriff's office to let them know I would be spending the night at the park. In a pinch, you can always stop by the local fire department and ask them where the best campsite is. Sometimes they'll even let you sleep inside the station.
 
 Some notable places I spent the night:  
-\- a church basement in Kansas  
-\- a fire station in Kentucky  
-\- a greenhouse in Virginia  
-\- an old pony express station in Nevada  
-\- an RV park that doubled as a goat/pony farm in Colorado  
-\- a bed\&breakfast for Appalachian Trail hikers in Damascus, VA  
-\- a shack outside a bar in Illinois  
+- a church basement in Kansas  
+- a fire station in Kentucky  
+- a greenhouse in Virginia  
+- an old pony express station in Nevada  
+- an RV park that doubled as a goat/pony farm in Colorado  
+- a bed\&breakfast for Appalachian Trail hikers in Damascus, VA  
+- a shack outside a bar in Illinois  
 
 ![][image9]
 
@@ -128,40 +128,38 @@ I was lucky enough to have my dad join me on the ride from the Kentucky-Virginia
 
 ### Some notes for next time
 
-\- The climb from Somerset, CA to the peak above South Lake Tahoe is sustained and there are long stretches without water.  
-\- If a dog starts running at you, it probably wants to bite you more than it wants to play with you.  
-\- There are basically six places to comfortably camp in Nevada so you better plan on biking some multiple of 70 miles per day or sleeping on the side of the road.  
-\- The 20 mile climb (4% grade) out of Cedar City, UT is unbelievably brutal.   
-\- The 10 mile climb (5% grade) to summit the Continental divide is similarly brutal.  
-\- Seven of the nine states I cycled through have a city named Eureka.  
-\- The 125 mile stretch between Hanksville and Blanding, Utah is nightmarish. There are NO SERVICES and only one water source (filter required).  
-\- Don't believe anybody when they talk about "[prevailing winds](https://www.reddit.com/r/bicycletouring/comments/1hkblhs/how_noticable_are_headwinds_when_completing_a/#:~:text=The%20prevailing%20direction%20is%20definitely,in%20late%20spring%20and%20summer.)". Eastern Colorado and Kansas are so flat and so windy (both directions) that it will reduce most sane riders to tears.  
-\- The Ozarks are hillier than expected. Several of my top 5 net elevation gain days were in Missouri.   
-\- This is one of the few times in life when it makes sense to have ice cream for dinner.  
-\- Appalachia is the steepest range on the route. There are several 2+ mile 7-8% grade climbs in Kentucky & Virginia.  
-\- If you get three flat tires in quick succession, there’s probably something sharp embedded in your tire. Replacing your tube is necessary but not sufficient \- it might just get punctured again.
+- The climb from Somerset, CA to the peak above South Lake Tahoe is sustained and there are long stretches without water.  
+- If a dog starts running at you, it probably wants to bite you more than it wants to play with you.  
+- There are basically six places to comfortably camp in Nevada so you better plan on biking some multiple of 70 miles per day or sleeping on the side of the road.  
+- The 20 mile climb (4% grade) out of Cedar City, UT is unbelievably brutal.   
+- The 10 mile climb (5% grade) to summit the Continental divide is similarly brutal.  
+- Seven of the nine states I cycled through have a city named Eureka.  
+- The 125 mile stretch between Hanksville and Blanding, Utah is nightmarish. There are NO SERVICES and only one water source (filter required).  
+- Don't believe anybody when they talk about "[prevailing winds](https://www.reddit.com/r/bicycletouring/comments/1hkblhs/how_noticable_are_headwinds_when_completing_a/#:~:text=The%20prevailing%20direction%20is%20definitely,in%20late%20spring%20and%20summer.)". Eastern Colorado and Kansas are so flat and so windy (both directions) that it will reduce most sane riders to tears.  
+- The Ozarks are hillier than expected. Several of my top 5 net elevation gain days were in Missouri.   
+- This is one of the few times in life when it makes sense to have ice cream for dinner.  
+- Appalachia is the steepest range on the route. There are several 2+ mile 7-8% grade climbs in Kentucky & Virginia.  
+- If you get three flat tires in quick succession, there’s probably something sharp embedded in your tire. Replacing your tube is necessary but not sufficient \- it might just get punctured again.
 
 ### Resources I Found Useful
 
 My gear list and general trip prep was heavily informed by Sam Westby's How I Biked Across the U.S. [video](https://www.youtube.com/watch?v=QmynR8N8lNE) and corresponding [doc](https://drive.google.com/file/d/1q_Oy58lwhOE_KCXRvcA8mGcItO8Vf_Ph/view). I'd highly recommend both \- you can get 90% of the way there without consuming anything else.
 
 These videos captured the vibe of the Western Express quite well:  
-\- [Cycling the Western Express Bicycle Route](https://www.youtube.com/watch?v=V99BEKaJCZo)  
-\- [bicycle touring, Pinto Summit, Eureka NV, ACA Western Express](https://www.youtube.com/watch?v=z0cxh8qHCY8)
+- [Cycling the Western Express Bicycle Route](https://www.youtube.com/watch?v=V99BEKaJCZo)  
+- [bicycle touring, Pinto Summit, Eureka NV, ACA Western Express](https://www.youtube.com/watch?v=z0cxh8qHCY8)
 
 crazyguyonabike.com has a bunch of great day-by-day accounts of previous TransAmerica journeys. [This series](https://www.crazyguyonabike.com/doc/?doc_id=24882), for example, captures the monotony and little details quite well.
 
-Random notes
+### Shoutouts
 
-Shoutouts
-
-\- Mitali, for being my emotional support and safety line at every step of the trip, coming down all the way from New York to see me finish, and helping me edit my writing  
-\- My mom, for checking in on me every day, dropping my dad off at the Kentucky border, and meeting up with us in Charlottesville and Yorktown.  
-\- Mitali's parents, for hosting me before my ride, helping me pick up all kinds of random supplies, and driving me to the start.  
-\- Eric & Georgia, for sending me off at Ocean Beach.  
-\- Nate, for giving feedback on this write-up and joining me on the way to Sacramento  
-\- Michael for joining the first 90 miles of the ride  
-\- My dad, for joining me all the way through Virginia.  
+- Mitali, for being my emotional support and safety line at every step of the trip, coming down all the way from New York to see me finish, and helping me edit my writing  
+- My mom, for checking in on me every day, dropping my dad off at the Kentucky border, and meeting up with us in Charlottesville and Yorktown.  
+- Mitali's parents, for hosting me before my ride, helping me pick up all kinds of random supplies, and driving me to the start.  
+- Eric & Georgia, for sending me off at Ocean Beach.  
+- Nate, for giving feedback on this write-up and joining me on the way to Sacramento  
+- Michael for joining the first 90 miles of the ride  
+- My dad, for joining me all the way through Virginia.  
 
 [image1]: </images/biking/before_and_after.png>
 

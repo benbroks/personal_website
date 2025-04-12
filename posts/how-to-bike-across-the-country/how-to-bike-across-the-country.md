@@ -58,8 +58,6 @@ Clothing: The rule of thumb I followed was 2+ sets of active wear and one set of
 
 ![][image7]
 
-![][vid1]
-
 Electronics: I brought an iPhone 11, a [Garmin Edge 530](https://amzn.to/4lkGTyC) (bike computer), a Garmin inReach (satellite phone), a [portable charger](https://amzn.to/42ktw8K), and necessary cords. The 530 was great at recording my daily rides and buzzing when I needed to make a turn to stay on the route but it isn't meant to be used for trip planning or waypoint finding. On iOS, I'd recommend downloading GPX files via GoodReader, then transferring those files over to EasyTrails for easy viewing/navigation. I used EasyTrails every morning to plan out my ride for the day. Notably, I did not bring headphones. It's more fun without them\!
 
 Camping Accoutrements: For cooking, I brought a [900 mL kettle](https://amzn.to/42zCQHe), [SOTO windmaster stove](https://amzn.to/3FRBmz9), and a small canister of cooking fuel (to be replaced every 2-3 weeks). A [Black Diamond headlamp](https://www.blackdiamondequipment.com/en_US/product/astro-300/) helped me navigate around camp at night. For cleaning dishes, laundry, and showers, I brought a 4oz container of [Dr. Bronner's](https://amzn.to/4clF5kD) (to be replaced every 2 weeks). I hear it can also be used as toothpaste but I never tested it out myself. Additionally, I carried a small washcloth that doubled as a towel. While nigh impossible to completely escape chafing and saddle sores on such a long ride, [Chamois Butt’r](https://amzn.to/3FVvULD) made the discomfort more manageable.

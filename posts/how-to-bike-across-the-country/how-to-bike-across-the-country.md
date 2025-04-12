@@ -1,6 +1,6 @@
 I spent 51 straight days on my bicycle last year, traveling 3,900 miles through high desert, mountain passes, endless prairies, and rolling hills from San Francisco, California to the eastern coast of Virginia. I did the majority of the route (Sacramento to Virginia) solo. Yet I didn’t even own a bike until two weeks before the trip. How'd that happen?
 
-### ![][image1]
+![][image1]
 
 After [shutting down my startup](https://www.brooks.team/posts/on-directai/) in summer 2024, I was burned out and unsure what to do next. Accordingly, I sat down to brainstorm a few crazy ideas in hopes of tackling a meaningful challenge and taking time to clear my head. I considered, but ultimately ruled out due to skill/weather issues, ideas to sail across an ocean or hike the Appalachian or Pacific Crest trails. Bicycling across the continent seemed like the perfect blend of crazy and possible.
 
@@ -28,7 +28,7 @@ For the reader, preparing for camping every night might require a bit more pract
 
 ![][image3]
 
-![][image4]
+
 
 I was a complete noob on the cycling maintenance side before preparing for this trip. I had never changed a tire and didn't even own a bike (just had a NYC Citibike subscription). Before I flew to San Francisco to start the ride, I had a cycling shop disassemble my bike and pack it into a cardboard box so I could check it as an oversized bag. Rebuilding the bike to kick off the trip was a great way to get familiar with my tools and the bicycle itself. If I were to relay advice to my past self, I’d also say to be prepared to grease your chain, replace a flat tire on both wheels, and use a [Quick Link](https://www.bikeradar.com/advice/workshop/chain-quick-links) on a broken chain. Luckily, I never had to fix a broken chain but my back tire did go flat 8 times during the trip and my chain would regularly detach from the gears. 
 
@@ -167,22 +167,22 @@ Shoutouts
 
 [image2]: </images/biking/cross_country_map.png>
 
-[image3]: </images/biking/one_pot_dinner.png>
+[image3]: </images/biking/one_pot_dinner.jpg>
 
-[image4]: </images/biking/disassembled_campsite.png>
+[image4]: </images/biking/disassembled_campsite.jpg>
 
-[image5]: </images/biking/new_bike.png>
+[image5]: </images/biking/new_bike.jpg>
 
-[image6]: </images/biking/loaded_bike.png>
+[image6]: </images/biking/loaded_bike.jpg>
 
-[image7]: </images/biking/salt_flats.png>
+[image7]: </images/biking/salt_flats.jpg>
 
-[image8]: </images/biking/lunch.png>
+[image8]: </images/biking/lunch.jpg>
 
-[image9]: </images/biking/bnb.png>
+[image9]: </images/biking/bnb.jpg>
 
-[image10]: </images/biking/firehouse.png>
+[image10]: </images/biking/firehouse.jpg>
 
-[image11]: </images/biking/me_and_dad.png>
+[image11]: </images/biking/me_and_dad.jpg>
 
 [vid1]: </images/biking/frozen_socks.mov>

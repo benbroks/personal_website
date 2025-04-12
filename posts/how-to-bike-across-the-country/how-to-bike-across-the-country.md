@@ -26,8 +26,6 @@ One move I don’t regret making is getting a **bike fitting** in advance of the
 
 For the reader, preparing for camping every night might require a bit more practice. A typical backcountry night involved me collecting water from a nearby stream before running it through my filter, boiling water with my camp stove to make an instant meal, hand-washing my clothes before hanging them to dry, giving myself a “shower” with a travel washcloth, and setting up my tent (often in the dark). In the morning, I’d wake up 90+ minutes before sunrise to make a quick breakfast and break down camp into a small pack that re-attached to my bike before heading out for the day. I was fortunate to go on a bunch of backpacking trips during college (shout out [Peaks & Professors](https://www.peaksandprofessors.org/)) so I was comfortable with all of the above. For those less experienced, I’d recommend doing a couple practice overnight trips to get the hang of using your gear before setting off on the long haul journey.
 
-![][image3]![][image4]
-
 I was a complete noob on the cycling maintenance side before preparing for this trip. I had never changed a tire and didn't even own a bike (just had a NYC Citibike subscription). Before I flew to San Francisco to start the ride, I had a cycling shop disassemble my bike and pack it into a cardboard box so I could check it as an oversized bag. Rebuilding the bike to kick off the trip was a great way to get familiar with my tools and the bicycle itself. If I were to relay advice to my past self, I’d also say to be prepared to grease your chain, replace a flat tire on both wheels, and use a [Quick Link](https://www.bikeradar.com/advice/workshop/chain-quick-links) on a broken chain. Luckily, I never had to fix a broken chain but my back tire did go flat 8 times during the trip and my chain would regularly detach from the gears. 
 
 What's more important than any physical preparation is **the willpower to get the trip done**. There will be hard moments on the trail \- I found myself crying on the side of the road more than once. No amount of training could have prepared me for the daily struggle of simply getting up and making progress. But this experience is not reserved for experts and athletes. People have been making the trek since long before the federal interstate existed and elderly cyclists manage it every year. The key is to just keep chugging along\!
@@ -38,11 +36,8 @@ Being on the road for several weeks straight requires a few key supplies. Full D
 
 Bike: I bought an old school Trek 520 off Craigslist for less than $500. Although it's heavy, this frame is considered to be a *classic* bike touring frame. I got compliments on it throughout my ride. I will say that I didn't find any other good bikes on Craigslist/Facebook Marketplace in the Manhattan/Brooklyn area that were under $1000. A brand new touring bike will run you at least $1500. I’d recommend going used if possible.
 
-![][image5]s
 
 Bike Accessories: I used a [Rockbros Rear Rack](https://amzn.to/4jlLHC1) and two [Rockbros Panniers](https://amzn.to/4ckiLIh) to store the majority of my supplies. Rockbros makes high quality waterproof bags. I cycled and camped through torrential rainstorms in Missouri, Kentucky, and Virginia \- water never made it inside the bags. The straps on the side of the panniers are also a great spot for air-drying wet clothes. I chose not to buy a front rack and loaded all the weight on my back tire, which **I would not recommend**. All the necessary gear can fit into two panniers, but I’d recommend putting one on a front rack and one on a rear rack. It’s also worth having a bottle cage on the frame to have easy access to water while in the saddle \- my bike came with one pre-installed.
-
-![][image6]
 
 Bike Maintenance & Repair: I used a [leatherman multitool](https://amzn.to/3FWDR3m) and [crankbrothers multitool](https://amzn.to/3E6icFm) for all my tightening, pinching, and cutting needs. For tire-related maintenance, I used a [small portable pump](https://amzn.to/3FVZf8W), a [pair of levers](https://amzn.to/4chCyrM), a patch kit (talk to any bike shop), and two spare tubes. I replaced my tires (and got another spare tube) about halfway through the trip. I brought along a roll of duct tape, which comes in handy when a thorn or piece of glass rips a sizable hole in the tire itself. I also carried a [Quick Link](https://www.amazon.com/Bibike-Missing-Reusable-Bicycle-12spd/dp/B08PSVD28B?crid=2IBLVT4F0Y8CC&dib=eyJ2IjoiMSJ9.ucuhcfjCu70Z0WkNpXTBSQ12XxK9TtQ9lrXVb0mCHmG_eFOcK_-yPm7w4JywVywnmQS0EBtsaqgTVpxDrwvq8AhPzWZwd5RVeOOqaVrh8ZrZsnRBtlc1FJj2brFiDAvnQIKuosoCUJHtPTjAwN43OyLEMNlNjz1fAlbNSel3c-jKzg-n074j26UgXDPiavDLmG4pnJa4e_a6HlU2D3c6llmqn6KAg35dthWJ60wDnOEOMffQtp-tfa2-hQaWnt3vPXOJbXs98xS86Bb0K8YInd_TKINF2-nmFd8HdXW_Fb8.2k6uPSj4TZDMrQCYQXNG0nSy-pMyTGgepCv5_Hg0Lvw&dib_tag=se&keywords=quick+link+bike&qid=1733706625&s=sporting-goods&sprefix=quick+link+bik,sporting,125&sr=1-6) but never ended up needing it.
 
@@ -54,7 +49,6 @@ Water Storage: For water access in underpopulated areas, I used a [Sawyer Squeez
 
 Clothing: The rule of thumb I followed was 2+ sets of active wear and one set of camp clothes. For daily riding, I brought 2 [Ultimate Black Bibs](https://theblackbibs.com/products/the-black-bibs-ultimate) and 2 [neon riding shirts](https://amzn.to/3R5YkoQ). It's worth noting that the zippers on my riding shirts broke almost immediately. I brought a set of tights for riding on cold mornings. I brought three pairs of socks \- I went for warm workout socks because of the season. I wore clip-in shoes for riding and Birkenstocks for camp. Noting I traveled from late September to early November: the temperature peaked at 85 in the Nevada Desert and dropped down to 28/29 overnight in Gunnison, Colorado. It stayed in the 40-60 range as I passed through the midwest and Appalachia.
 
-![][image7]  
 \[TODO: insert MOV of my frozen socks\]
 
 Electronics: I brought an iPhone 11, a [Garmin Edge 530](https://amzn.to/4lkGTyC) (bike computer), a Garmin inReach (satellite phone), a [portable charger](https://amzn.to/42ktw8K), and necessary cords. The 530 was great at recording my daily rides and buzzing when I needed to make a turn to stay on the route but it isn't meant to be used for trip planning or waypoint finding. On iOS, I'd recommend downloading GPX files via GoodReader, then transferring those files over to EasyTrails for easy viewing/navigation. I used EasyTrails every morning to plan out my ride for the day. Notably, I did not bring headphones. It's more fun without them\!
@@ -66,8 +60,6 @@ Camping Accoutrements: For cooking, I brought a [900 mL kettle](https://amzn.to/
 Planning my food and water consumption was the most logistically challenging component of the trip. Because I was weight constrained and typically only packed a day's worth of food/water, I needed to constantly monitor where the closest grocery stores and water sources were. The most common grocery chains on the trail were Family Dollar & Dollar General. These chains are price-friendly. They have a variety of instant meals and calorie-dense snacks. I wouldn't recommend shopping there if you're looking for a nutritionally balanced diet, but they're perfect for a cyclist exclusively in need of carbs. My favorite instant meals included mashed potatoes, beans & rice, ramen, and pasta. I avoided canned food as it added unnecessary water weight to my pack.
 
 I'm vegetarian, and rural America doesn't lend itself well to that dietary restriction. That said, while there wasn't much variety, I could usually find *something* to eat. I reliably found mexican restaurants along the route, and if there was a bar that only served burgers I'd usually be able to convince them to make me a grilled cheese.
-
-![][image8]
 
 Given my daily average was about 7 hours on the bike, I generally ate between 4,000 and 6,000 calories a day. 
 
@@ -93,9 +85,9 @@ Some notable places I spent the night:
 \- an RV park that doubled as a goat/pony farm in Colorado  
 \- a bed\&breakfast for Appalachian Trail hikers in Damascus, VA  
 \- a shack outside a bar in Illinois  
-![][image9]  
+
+
 \[TODO: include MOV of greenhouse\]  
-![][image10]
 
 ### On Safety
 
@@ -118,7 +110,6 @@ Another memorable aspect of riding along the TransAmerica trail was showing up t
 \[TODO: insert MOV of logbook\]
 
 I was lucky enough to have my dad join me on the ride from the Kentucky-Virginia border to the finish line in Yorktown. Weeks of riding solo was starting to make the trip feel like a never ending journey \- seeing him and my mom in my home state was like getting an energy boost in the last mile of a marathon. Together, we pedaled through farm country, set up camp in tiny towns, and remarked at how little we’d previously seen of the state we’d both spent the majority of our lives in. It’s rare to have extended quality time with family after moving out of the house and I know we’ll both cherish this trip’s memory for the rest of our lives. I pitched my dad on doing the whole thing with me but he, understandably, wasn’t able to take two months off with such little notice \- having completed it with him I can definitely imagine wanting to take a similar journey with my own children a few years down the line.  
-![][image11]
 
 ### Some notes for next time
 
@@ -157,5 +148,7 @@ Shoutouts
 \- Michael for joining the first 90 miles of the ride  
 \- My dad, for joining me all the way through Virginia.  
 
-[image1]: </images/before_and_after.png>
+[image1]: </images/biking/before_and_after.png>
+
+[image2]: </images/biking/cross_country_map.png>
 

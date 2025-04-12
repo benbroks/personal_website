@@ -57,13 +57,8 @@ Water Storage: For water access in underpopulated areas, I used a [Sawyer Squeez
 Clothing: The rule of thumb I followed was 2+ sets of active wear and one set of camp clothes. For daily riding, I brought 2 [Ultimate Black Bibs](https://theblackbibs.com/products/the-black-bibs-ultimate) and 2 [neon riding shirts](https://amzn.to/3R5YkoQ). It's worth noting that the zippers on my riding shirts broke almost immediately. I brought a set of tights for riding on cold mornings. I brought three pairs of socks \- I went for warm workout socks because of the season. I wore clip-in shoes for riding and Birkenstocks for camp. Noting I traveled from late September to early November: the temperature peaked at 85 in the Nevada Desert and dropped down to 28/29 overnight in Gunnison, Colorado. It stayed in the 40-60 range as I passed through the midwest and Appalachia.
 
 ![][image7]
-<video width="100%" controls>
-  <source src="/images/biking/frozen-socks.mov" type="video/quicktime">
-  <noscript>Your browser does not support the video tag.</noscript>
-</video>
 
-
-\[TODO: insert MOV of my frozen socks\]
+![][vid1]
 
 Electronics: I brought an iPhone 11, a [Garmin Edge 530](https://amzn.to/4lkGTyC) (bike computer), a Garmin inReach (satellite phone), a [portable charger](https://amzn.to/42ktw8K), and necessary cords. The 530 was great at recording my daily rides and buzzing when I needed to make a turn to stay on the route but it isn't meant to be used for trip planning or waypoint finding. On iOS, I'd recommend downloading GPX files via GoodReader, then transferring those files over to EasyTrails for easy viewing/navigation. I used EasyTrails every morning to plan out my ride for the day. Notably, I did not bring headphones. It's more fun without them\!
 
@@ -74,6 +69,8 @@ Camping Accoutrements: For cooking, I brought a [900 mL kettle](https://amzn.to/
 Planning my food and water consumption was the most logistically challenging component of the trip. Because I was weight constrained and typically only packed a day's worth of food/water, I needed to constantly monitor where the closest grocery stores and water sources were. The most common grocery chains on the trail were Family Dollar & Dollar General. These chains are price-friendly. They have a variety of instant meals and calorie-dense snacks. I wouldn't recommend shopping there if you're looking for a nutritionally balanced diet, but they're perfect for a cyclist exclusively in need of carbs. My favorite instant meals included mashed potatoes, beans & rice, ramen, and pasta. I avoided canned food as it added unnecessary water weight to my pack.
 
 I'm vegetarian, and rural America doesn't lend itself well to that dietary restriction. That said, while there wasn't much variety, I could usually find *something* to eat. I reliably found mexican restaurants along the route, and if there was a bar that only served burgers I'd usually be able to convince them to make me a grilled cheese.
+
+![][image8]
 
 Given my daily average was about 7 hours on the bike, I generally ate between 4,000 and 6,000 calories a day. 
 
@@ -100,6 +97,10 @@ Some notable places I spent the night:
 \- a bed\&breakfast for Appalachian Trail hikers in Damascus, VA  
 \- a shack outside a bar in Illinois  
 
+![][image9]
+
+![][image10]
+
 
 \[TODO: include MOV of greenhouse\]  
 
@@ -124,6 +125,8 @@ Another memorable aspect of riding along the TransAmerica trail was showing up t
 \[TODO: insert MOV of logbook\]
 
 I was lucky enough to have my dad join me on the ride from the Kentucky-Virginia border to the finish line in Yorktown. Weeks of riding solo was starting to make the trip feel like a never ending journey \- seeing him and my mom in my home state was like getting an energy boost in the last mile of a marathon. Together, we pedaled through farm country, set up camp in tiny towns, and remarked at how little we’d previously seen of the state we’d both spent the majority of our lives in. It’s rare to have extended quality time with family after moving out of the house and I know we’ll both cherish this trip’s memory for the rest of our lives. I pitched my dad on doing the whole thing with me but he, understandably, wasn’t able to take two months off with such little notice \- having completed it with him I can definitely imagine wanting to take a similar journey with my own children a few years down the line.  
+
+![][image11]
 
 ### Some notes for next time
 
@@ -176,3 +179,12 @@ Shoutouts
 
 [image7]: </images/biking/salt_flats.png>
 
+[image8]: </images/biking/lunch.png>
+
+[image9]: </images/biking/bnb.png>
+
+[image10]: </images/biking/firehouse.png>
+
+[image11]: </images/biking/me_and_dad.png>
+
+[vid1]: </images/biking/frozen_socks.mov>

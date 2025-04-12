@@ -26,6 +26,10 @@ One move I don’t regret making is getting a **bike fitting** in advance of the
 
 For the reader, preparing for camping every night might require a bit more practice. A typical backcountry night involved me collecting water from a nearby stream before running it through my filter, boiling water with my camp stove to make an instant meal, hand-washing my clothes before hanging them to dry, giving myself a “shower” with a travel washcloth, and setting up my tent (often in the dark). In the morning, I’d wake up 90+ minutes before sunrise to make a quick breakfast and break down camp into a small pack that re-attached to my bike before heading out for the day. I was fortunate to go on a bunch of backpacking trips during college (shout out [Peaks & Professors](https://www.peaksandprofessors.org/)) so I was comfortable with all of the above. For those less experienced, I’d recommend doing a couple practice overnight trips to get the hang of using your gear before setting off on the long haul journey.
 
+![][image3]
+
+![][image4]
+
 I was a complete noob on the cycling maintenance side before preparing for this trip. I had never changed a tire and didn't even own a bike (just had a NYC Citibike subscription). Before I flew to San Francisco to start the ride, I had a cycling shop disassemble my bike and pack it into a cardboard box so I could check it as an oversized bag. Rebuilding the bike to kick off the trip was a great way to get familiar with my tools and the bicycle itself. If I were to relay advice to my past self, I’d also say to be prepared to grease your chain, replace a flat tire on both wheels, and use a [Quick Link](https://www.bikeradar.com/advice/workshop/chain-quick-links) on a broken chain. Luckily, I never had to fix a broken chain but my back tire did go flat 8 times during the trip and my chain would regularly detach from the gears. 
 
 What's more important than any physical preparation is **the willpower to get the trip done**. There will be hard moments on the trail \- I found myself crying on the side of the road more than once. No amount of training could have prepared me for the daily struggle of simply getting up and making progress. But this experience is not reserved for experts and athletes. People have been making the trek since long before the federal interstate existed and elderly cyclists manage it every year. The key is to just keep chugging along\!
@@ -36,8 +40,11 @@ Being on the road for several weeks straight requires a few key supplies. Full D
 
 Bike: I bought an old school Trek 520 off Craigslist for less than $500. Although it's heavy, this frame is considered to be a *classic* bike touring frame. I got compliments on it throughout my ride. I will say that I didn't find any other good bikes on Craigslist/Facebook Marketplace in the Manhattan/Brooklyn area that were under $1000. A brand new touring bike will run you at least $1500. I’d recommend going used if possible.
 
+![][image5]
 
 Bike Accessories: I used a [Rockbros Rear Rack](https://amzn.to/4jlLHC1) and two [Rockbros Panniers](https://amzn.to/4ckiLIh) to store the majority of my supplies. Rockbros makes high quality waterproof bags. I cycled and camped through torrential rainstorms in Missouri, Kentucky, and Virginia \- water never made it inside the bags. The straps on the side of the panniers are also a great spot for air-drying wet clothes. I chose not to buy a front rack and loaded all the weight on my back tire, which **I would not recommend**. All the necessary gear can fit into two panniers, but I’d recommend putting one on a front rack and one on a rear rack. It’s also worth having a bottle cage on the frame to have easy access to water while in the saddle \- my bike came with one pre-installed.
+
+![][image6]
 
 Bike Maintenance & Repair: I used a [leatherman multitool](https://amzn.to/3FWDR3m) and [crankbrothers multitool](https://amzn.to/3E6icFm) for all my tightening, pinching, and cutting needs. For tire-related maintenance, I used a [small portable pump](https://amzn.to/3FVZf8W), a [pair of levers](https://amzn.to/4chCyrM), a patch kit (talk to any bike shop), and two spare tubes. I replaced my tires (and got another spare tube) about halfway through the trip. I brought along a roll of duct tape, which comes in handy when a thorn or piece of glass rips a sizable hole in the tire itself. I also carried a [Quick Link](https://www.amazon.com/Bibike-Missing-Reusable-Bicycle-12spd/dp/B08PSVD28B?crid=2IBLVT4F0Y8CC&dib=eyJ2IjoiMSJ9.ucuhcfjCu70Z0WkNpXTBSQ12XxK9TtQ9lrXVb0mCHmG_eFOcK_-yPm7w4JywVywnmQS0EBtsaqgTVpxDrwvq8AhPzWZwd5RVeOOqaVrh8ZrZsnRBtlc1FJj2brFiDAvnQIKuosoCUJHtPTjAwN43OyLEMNlNjz1fAlbNSel3c-jKzg-n074j26UgXDPiavDLmG4pnJa4e_a6HlU2D3c6llmqn6KAg35dthWJ60wDnOEOMffQtp-tfa2-hQaWnt3vPXOJbXs98xS86Bb0K8YInd_TKINF2-nmFd8HdXW_Fb8.2k6uPSj4TZDMrQCYQXNG0nSy-pMyTGgepCv5_Hg0Lvw&dib_tag=se&keywords=quick+link+bike&qid=1733706625&s=sporting-goods&sprefix=quick+link+bik,sporting,125&sr=1-6) but never ended up needing it.
 
@@ -48,6 +55,13 @@ Shelter: I spent the majority of nights on my trip inside a [Naturehike Cloud-Up
 Water Storage: For water access in underpopulated areas, I used a [Sawyer Squeeze water filter](https://amzn.to/4j413eO). It's important to note that these filters are rendered ineffective if exposed to sub-freezing temperatures. If it got chilly enough overnight, I’d throw the filter in my sleeping bag so it wouldn’t freeze. I packed a 6-liter water container (I'd occasionally duct-tape this to the frame), a 2-liter camelbak, and a small [Rockbros water bottle](https://amzn.to/4lkpNAR) for water access while I was in motion. In retrospect, the camelbak tube was a pain to pack and it would often leak. In retrospect, I should have just used a couple big storage bags that are designed to be emptied out into a classic water bottle/cooking stove.
 
 Clothing: The rule of thumb I followed was 2+ sets of active wear and one set of camp clothes. For daily riding, I brought 2 [Ultimate Black Bibs](https://theblackbibs.com/products/the-black-bibs-ultimate) and 2 [neon riding shirts](https://amzn.to/3R5YkoQ). It's worth noting that the zippers on my riding shirts broke almost immediately. I brought a set of tights for riding on cold mornings. I brought three pairs of socks \- I went for warm workout socks because of the season. I wore clip-in shoes for riding and Birkenstocks for camp. Noting I traveled from late September to early November: the temperature peaked at 85 in the Nevada Desert and dropped down to 28/29 overnight in Gunnison, Colorado. It stayed in the 40-60 range as I passed through the midwest and Appalachia.
+
+![][image7]
+<video width="100%" controls>
+  <source src="/images/biking/frozen-socks.mov" type="video/quicktime">
+  <noscript>Your browser does not support the video tag.</noscript>
+</video>
+
 
 \[TODO: insert MOV of my frozen socks\]
 
@@ -151,4 +165,14 @@ Shoutouts
 [image1]: </images/biking/before_and_after.png>
 
 [image2]: </images/biking/cross_country_map.png>
+
+[image3]: </images/biking/one_pot_dinner.png>
+
+[image4]: </images/biking/disassembled_campsite.png>
+
+[image5]: </images/biking/new_bike.png>
+
+[image6]: </images/biking/loaded_bike.png>
+
+[image7]: </images/biking/salt_flats.png>
 

@@ -9,6 +9,7 @@ After [shutting down my startup](https://www.brooks.team/posts/on-directai/) in 
 All of my research led me to the Adventure Cycling Association (ACA) [maps](https://www.adventurecycling.org/wp-content/uploads/2024/03/RouteNetwork_MP_3_20_24.pdf). The ACA sells digital routes as gpx files \- each route contains turn-by-turn directions along with a detailed list of waypoints marking campgrounds, convenience stores, motels, and notable tourist attractions along the route.
 
 The most popular cross-country route is the TransAmerica Trail, created in 1976 for the United States Bicentennial. It starts in Astoria, Oregon and runs 4200 miles before finishing in Yorktown, Virginia. Although I was initially interested in following this route, due to my last minute planning (late August), I couldn’t start the ride until September 21\. By that time of year, sections of the TransAmerica in Montana and Wyoming are typically snowed out. All the advice I read recommended *completing* the TransAmerica before the time of year I decided to *start.*  
+
 ![][image2]
 
 With the northern sections of the TransAmerica nixed, I looked further south. The **Southern Tier Route** (San Diego, California to Saint Augustine, Florida) looked compelling but I checked out a few Reddit reviews and everyone said it was boring, particularly the 1000 mile stretch through Texas. Besides complaints about how challenging the ride was, most folks had positive things to say about the **Western Express** (San Francisco, California to Pueblo, Colorado). The trail is largely remote so there’s barely any suburban traffic and it weaves through several spectacular national parks and mountain ranges. That said, reviews were mixed about whether to attempt such a ride in October. I decided to roll the dice, hope there was no snow in the Rockies when I passed through Southern Colorado via the Western Express, and rejoin the TransAmerica route in Pueblo. I was confident I could pass through the Midwest and Mid-Atlantic without encountering bad weather, assuming I made it over the Continental Divide safely.
@@ -26,10 +27,10 @@ One move I don’t regret making is getting a **bike fitting** in advance of the
 
 For the reader, preparing for camping every night might require a bit more practice. A typical backcountry night involved me collecting water from a nearby stream before running it through my filter, boiling water with my camp stove to make an instant meal, hand-washing my clothes before hanging them to dry, giving myself a “shower” with a travel washcloth, and setting up my tent (often in the dark). In the morning, I’d wake up 90+ minutes before sunrise to make a quick breakfast and break down camp into a small pack that re-attached to my bike before heading out for the day. I was fortunate to go on a bunch of backpacking trips during college (shout out [Peaks & Professors](https://www.peaksandprofessors.org/)) so I was comfortable with all of the above. For those less experienced, I’d recommend doing a couple practice overnight trips to get the hang of using your gear before setting off on the long haul journey.
 
-![][image3]
+![][image3]*<small>one pot dinner (Tunnel Hill, Illinois)</small>*
 
-![][image4]
-
+![][image4]*<small>all the essentials (Pilot Knob, Missouri)</small>*
+ 
 I was a complete noob on the cycling maintenance side before preparing for this trip. I had never changed a tire and didn't even own a bike (just had a NYC Citibike subscription). Before I flew to San Francisco to start the ride, I had a cycling shop disassemble my bike and pack it into a cardboard box so I could check it as an oversized bag. Rebuilding the bike to kick off the trip was a great way to get familiar with my tools and the bicycle itself. If I were to relay advice to my past self, I’d also say to be prepared to grease your chain, replace a flat tire on both wheels, and use a [Quick Link](https://www.bikeradar.com/advice/workshop/chain-quick-links) on a broken chain. Luckily, I never had to fix a broken chain but my back tire did go flat 8 times during the trip and my chain would regularly detach from the gears. 
 
 What's more important than any physical preparation is **the willpower to get the trip done**. There will be hard moments on the trail \- I found myself crying on the side of the road more than once. No amount of training could have prepared me for the daily struggle of simply getting up and making progress. But this experience is not reserved for experts and athletes. People have been making the trek since long before the federal interstate existed and elderly cyclists manage it every year. The key is to just keep chugging along\!
@@ -44,7 +45,7 @@ Bike: I bought an old school Trek 520 off Craigslist for less than $500. Althoug
 
 Bike Accessories: I used a [Rockbros Rear Rack](https://amzn.to/4jlLHC1) and two [Rockbros Panniers](https://amzn.to/4ckiLIh) to store the majority of my supplies. Rockbros makes high quality waterproof bags. I cycled and camped through torrential rainstorms in Missouri, Kentucky, and Virginia \- water never made it inside the bags. The straps on the side of the panniers are also a great spot for air-drying wet clothes. I chose not to buy a front rack and loaded all the weight on my back tire, which **I would not recommend**. All the necessary gear can fit into two panniers, but I’d recommend putting one on a front rack and one on a rear rack. It’s also worth having a bottle cage on the frame to have easy access to water while in the saddle \- my bike came with one pre-installed.
 
-![][image6]
+![][image6]*<small>80 miles until the next town (Hite, Utah)</small>*
 
 Bike Maintenance & Repair: I used a [leatherman multitool](https://amzn.to/3FWDR3m) and [crankbrothers multitool](https://amzn.to/3E6icFm) for all my tightening, pinching, and cutting needs. For tire-related maintenance, I used a [small portable pump](https://amzn.to/3FVZf8W), a [pair of levers](https://amzn.to/4chCyrM), a patch kit (talk to any bike shop), and two spare tubes. I replaced my tires (and got another spare tube) about halfway through the trip. I brought along a roll of duct tape, which comes in handy when a thorn or piece of glass rips a sizable hole in the tire itself. I also carried a [Quick Link](https://amzn.to/4luRUgH) but never ended up needing it.
 
@@ -56,8 +57,9 @@ Water Storage: For water access in underpopulated areas, I used a [Sawyer Squeez
 
 Clothing: The rule of thumb I followed was 2+ sets of active wear and one set of camp clothes. For daily riding, I brought 2 [Ultimate Black Bibs](https://theblackbibs.com/products/the-black-bibs-ultimate) and 2 [neon riding shirts](https://amzn.to/3R5YkoQ). It's worth noting that the zippers on my riding shirts broke almost immediately. I brought a set of tights for riding on cold mornings. I brought three pairs of socks \- I went for warm workout socks because of the season. I wore clip-in shoes for riding and Birkenstocks for camp. Noting I traveled from late September to early November: the temperature peaked at 85 in the Nevada Desert and dropped down to 28/29 overnight in Gunnison, Colorado. It stayed in the 40-60 range as I passed through the midwest and Appalachia.
 
-![][image7]
-![][vid1]
+![][image7]*<small>salt flats (outside Fallon, Nevada)</small>*
+
+![][vid1]*<small>frozen socks (Gunnison, Colorado)</small>*
 
 Electronics: I brought an iPhone 11, a [Garmin Edge 530](https://amzn.to/4lkGTyC) (bike computer), a Garmin inReach (satellite phone), a [portable charger](https://amzn.to/42ktw8K), and necessary cords. The 530 was great at recording my daily rides and buzzing when I needed to make a turn to stay on the route but it isn't meant to be used for trip planning or waypoint finding. On iOS, I'd recommend downloading GPX files via GoodReader, then transferring those files over to EasyTrails for easy viewing/navigation. I used EasyTrails every morning to plan out my ride for the day. Notably, I did not bring headphones. It's more fun without them\!
 
@@ -69,7 +71,8 @@ Planning my food and water consumption was the most logistically challenging com
 
 I'm vegetarian, and rural America doesn't lend itself well to that dietary restriction. That said, while there wasn't much variety, I could usually find *something* to eat. I reliably found mexican restaurants along the route, and if there was a bar that only served burgers I'd usually be able to convince them to make me a grilled cheese.
 
-![][image8]
+![][image8]*<small>a delicious veggie burrito (Dolores, Colorado)</small>*
+
 
 Given my daily average was about 7 hours on the bike, I generally ate between 4,000 and 6,000 calories a day. 
 
@@ -93,15 +96,14 @@ Some notable places I spent the night:
 - a greenhouse in Virginia  
 - an old pony express station in Nevada  
 - an RV park that doubled as a goat/pony farm in Colorado  
-- a bed\&breakfast for Appalachian Trail hikers in Damascus, VA  
+- a bed\&breakfast for Appalachian Trail hikers
 - a shack outside a bar in Illinois  
 
-![][image9]
+![][image9]*<small>a BnB with a dog and delicious homemade breakfast included (Damascus, Virginia)</small>*
 
-![][image10]
+![][image10]*<small>the fire chief came by to welcome me! (White Mills, Kentucky)</small>*
 
-
-\[TODO: include MOV of greenhouse\]  
+![][vid2]*<small>setting up camp next to the flower beds (Draper, Virginia)</small>*
 
 ### On Safety
 
@@ -121,11 +123,11 @@ A bike touring outfit and gear collection makes a cyclist stick out like a sore 
 
 Another memorable aspect of riding along the TransAmerica trail was showing up to restaurants/rest stops in small towns that regularly see cyclists. In one such restaurant in Sugar City, Colorado, the owner took a quick look at me as I walked in before saying “I have something for you” and disappearing into a corner. She came back with a spiral notebook and a pen and told me to take a look. Inside were log book entries dating back years \- every cross-country cyclist who had passed through had taken time during their meal to write a personalized note. Some wrote little else but the date and the direction they were headed. Others wrote paragraphs of gratitude for the delicious meal they’d been served or diatribes on the struggles they’d endured to make it to this point. As I continued to head east from Sugar City, I found that these log books were not a rare occurrence, nearly every spot on my ACA map had something similar. These innocuous books, of all things, were what made me feel most connected to something bigger than myself during the ride. 
 
-\[TODO: insert MOV of logbook\]
+![][vid3]*<small>flipping through TransAmerica history (Sugar City, Colorado)</small>*
 
 I was lucky enough to have my dad join me on the ride from the Kentucky-Virginia border to the finish line in Yorktown. Weeks of riding solo was starting to make the trip feel like a never ending journey \- seeing him and my mom in my home state was like getting an energy boost in the last mile of a marathon. Together, we pedaled through farm country, set up camp in tiny towns, and remarked at how little we’d previously seen of the state we’d both spent the majority of our lives in. It’s rare to have extended quality time with family after moving out of the house and I know we’ll both cherish this trip’s memory for the rest of our lives. I pitched my dad on doing the whole thing with me but he, understandably, wasn’t able to take two months off with such little notice \- having completed it with him I can definitely imagine wanting to take a similar journey with my own children a few years down the line.  
 
-![][image11]
+![][image11]*<small>setting off with my dad through morning fog (Breaks Interstate Park)</small>*
 
 ### Some notes for next time
 
@@ -185,3 +187,7 @@ crazyguyonabike.com has a bunch of great day-by-day accounts of previous TransAm
 [image11]: </images/biking/me_and_dad.jpg>
 
 [vid1]: </images/biking/frozen_socks.mov>
+
+[vid2]: </images/biking/greenhouse.mov>
+
+[vid3]: </images/biking/logbook.mov>

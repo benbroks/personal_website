@@ -1,0 +1,106 @@
+<style>
+  .strava-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .strava-embed-container {
+    width: 100%; /* Default for smaller screens - 1 per row */
+    margin-bottom: 15px;
+  }
+  
+  @media (min-width: 1000px) {
+    .strava-embed-container {
+      width: 48%; /* 2 per row for screens wider than 1000px */
+    }
+  }
+  
+  @media (min-width: 1500px) {
+    .strava-embed-container {
+      width: 32%; /* 3 per row for screens wider than 1500px */
+    }
+  }
+</style>
+
+<div class="strava-row" id="strava-activities-container">
+  <!-- Activities will be dynamically inserted here -->
+</div>
+
+<script>
+  // List of Strava activity IDs to embed
+  const stravaActivityIds = [
+    "12484010008",
+    "12484010293",
+    "12488417667",
+    "12497207865",
+    "12505530296",
+    "12512923368",
+    "12519854485",
+    "12528001884",
+    "12536687885",
+    "12553426467",
+    "12553426559",
+    "12568938235",
+    "12568938780",
+    "12575921703",
+    "12585465037",
+    "12601876439",
+    "12601876823",
+    "12610069165",
+    "12617785831",
+    "12625690330",
+    "12632911161",
+    "12641072882",
+    "12650045681",
+    "12666019913",
+    "12666020019",
+    "12674159708",
+    "12681756552",
+    "12689001038",
+    "12696364174",
+    "12705355750",
+    "12713421042",
+    "12721937873",
+    "12730062307",
+    "12737625729",
+    "12744405970",
+    "12753283031",
+    "12764642259",
+    "12778329182",
+    "12778329389",
+    "12797271928",
+    "12797290096",
+    "12803927324",
+    "12818855645",
+    "12818856073",
+    "12827813092",
+    "12835772708",
+    "12858587744",
+    "12858588524",
+    "12858588914",
+    "12858588914",
+    "12863933436",
+    "12882604115",
+  ];
+  
+  // Get the container element
+  const container = document.getElementById('strava-activities-container');
+  
+  // Create and append embed containers for each activity
+  stravaActivityIds.forEach(activityId => {
+    const embedContainer = document.createElement('div');
+    embedContainer.className = 'strava-embed-container';
+    
+    const placeholder = document.createElement('div');
+    placeholder.className = 'strava-embed-placeholder';
+    placeholder.setAttribute('data-embed-type', 'activity');
+    placeholder.setAttribute('data-embed-id', activityId);
+    placeholder.setAttribute('data-style', 'standard');
+    placeholder.setAttribute('data-from-embed', 'false');
+    
+    embedContainer.appendChild(placeholder);
+    container.appendChild(embedContainer);
+  });
+</script>
+
+<script src="https://strava-embeds.com/embed.js"></script>

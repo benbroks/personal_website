@@ -1,27 +1,52 @@
-<style>
-  .strava-row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  .strava-embed-container {
-    width: 100%; /* Default for smaller screens - 1 per row */
-    margin-bottom: 15px;
-  }
-  
-  @media (min-width: 1000px) {
-    .strava-embed-container {
-      width: 48%; /* 2 per row for screens wider than 1000px */
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Strava Across the Country</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+  <style>
+    .strava-row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-top: 70px; /* Add margin to create space for the back button */
     }
-  }
-  
-  @media (min-width: 1500px) {
     .strava-embed-container {
-      width: 32%; /* 3 per row for screens wider than 1500px */
+      width: 100%; /* Default for smaller screens - 1 per row */
+      margin-bottom: 15px;
     }
-  }
-</style>
+    
+    @media (min-width: 1000px) {
+      .strava-embed-container {
+        width: 48%; /* 2 per row for screens wider than 1000px */
+      }
+    }
+    
+    @media (min-width: 1500px) {
+      .strava-embed-container {
+        width: 32%; /* 3 per row for screens wider than 1500px */
+      }
+    }
 
+    #back-button {
+        position: absolute;
+        top: 20px; /* Adjust as needed to align vertically with the h1 */
+        left: 20px; /* Adjust as needed for desired horizontal position */
+        padding: 7.5px 15px;
+        font-size: 12px;
+        cursor: pointer;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  </style>
+</head>
+<body>
+<button id="back-button" onclick="window.location.href='https://brooks.team'">Back to Home</button>
 <div class="strava-row" id="strava-activities-container">
   <!-- Activities will be dynamically inserted here -->
 </div>
@@ -103,3 +128,7 @@
 </script>
 
 <script src="https://strava-embeds.com/embed.js"></script>
+</body>
+</html>
+
+

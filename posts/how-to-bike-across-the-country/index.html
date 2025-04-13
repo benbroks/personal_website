@@ -96,6 +96,33 @@
       html: true
     });
 
+  // Custom renderer for handling video files
+  const defaultRender = md.renderer.rules.image || function(tokens, idx, options, env, self) {
+    return self.renderToken(tokens, idx, options);
+  };
+
+  md.renderer.rules.image = function(tokens, idx, options, env, self) {
+    const token = tokens[idx];
+    const srcIndex = token.attrIndex('src');
+    const src = token.attrs[srcIndex][1];
+    
+    // Remove angle brackets if present
+    const cleanSrc = src.replace(/^<|>$/g, '');
+    
+    // Check if the source is a .MOV file
+    if (cleanSrc.toLowerCase().endsWith('.mov')) {
+      // Create a video element with improved attributes
+      return `<video controls width="100%" playsinline>
+                <source src="${cleanSrc}" type="video/quicktime">
+                <source src="${cleanSrc}" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>`;
+    }
+    
+    // For all other images, use the default renderer
+    return defaultRender(tokens, idx, options, env, self);
+  };
+
     // Fetch the Markdown file
     fetch('how-to-bike-across-the-country.md')
       .then(response => {
@@ -105,9 +132,18 @@
         return response.text();
       })
       .then(markdownText => {
-        // Render and sanitize the Markdown content
-        const htmlContent = DOMPurify.sanitize(md.render(markdownText));
-        document.getElementById('markdown-content').innerHTML = htmlContent;
+        // Render the Markdown content
+        const htmlContent = md.render(markdownText);
+        
+        // Configure DOMPurify to allow video elements
+        const purifyConfig = {
+          ADD_TAGS: ['video', 'source'],
+          ADD_ATTR: ['controls', 'type']
+        };
+        
+        // Sanitize with the updated configuration
+        const sanitizedContent = DOMPurify.sanitize(htmlContent, purifyConfig);
+        document.getElementById('markdown-content').innerHTML = sanitizedContent;
       })
       .catch(error => {
         console.error('Error fetching the Markdown file:', error);

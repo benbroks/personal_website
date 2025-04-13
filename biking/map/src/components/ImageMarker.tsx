@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Marker, Popup } from 'react-leaflet';
 import { DivIcon } from 'leaflet';
 
@@ -21,6 +21,29 @@ interface ImageMarkerProps {
 
 const ImageMarker: React.FC<ImageMarkerProps> = ({ image, onImageClick }) => {
   const [isPopupOpen, setIsPopupOpen] = useState(false);
+  const [isImageLoaded, setIsImageLoaded] = useState(false);
+
+  // Pre-load the image when component mounts or image changes
+  useEffect(() => {
+    const img = new Image();
+    const imageUrl = image.thumbnail || image.path;
+    
+    img.onload = () => {
+      setIsImageLoaded(true);
+    };
+    
+    img.onerror = () => {
+      console.error('Failed to load image:', imageUrl);
+      setIsImageLoaded(false);
+    };
+    
+    img.src = imageUrl;
+    
+    return () => {
+      img.onload = null;
+      img.onerror = null;
+    };
+  }, [image.thumbnail, image.path]);
 
   // Create a custom icon for the image marker
   const imageIcon = new DivIcon({
@@ -50,7 +73,15 @@ const ImageMarker: React.FC<ImageMarkerProps> = ({ image, onImageClick }) => {
   });
 
   const handleMarkerClick = () => {
-    setIsPopupOpen(true);
+    setIsPopupOpen(true);    
+    // Only attempt to load if not already loaded
+    if (!isImageLoaded) {
+      const img = new Image();
+      img.src = image.thumbnail || image.path;
+      img.onload = () => {
+        setIsImageLoaded(true);
+      };
+    }
   };
 
   const handleImageClick = () => {
@@ -83,19 +114,18 @@ const ImageMarker: React.FC<ImageMarkerProps> = ({ image, onImageClick }) => {
       <Popup className="image-popup">
         <div className="popup-content">
           <div className="popup-image-container">
+            {!isImageLoaded && <div className="image-loading">Loading...</div>}
             <img 
               src={image.thumbnail || image.path} 
               alt={image.description || "Location view"} 
-              className="popup-image"
+              className={`popup-image ${isImageLoaded ? 'loaded' : 'loading'}`}
               onClick={handleImageClick}
+              style={{ display: isImageLoaded ? 'block' : 'none' }}
             />
           </div>
-          {image.description && (
+          {image.dateTaken && (
             <div className="popup-description">
-              <p>{image.description}</p>
-              {image.dateTaken && (
-                <p className="popup-date">{formatDate(image.dateTaken)}</p>
-              )}
+              <p className="popup-date">{formatDate(image.dateTaken)}</p>
             </div>
           )}
           <button className="view-full-image-btn" onClick={handleImageClick}>

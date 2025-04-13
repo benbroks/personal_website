@@ -24,7 +24,7 @@ const ImageModal: React.FC<ImageModalProps> = ({ image, onClose }) => {
 
   useEffect(() => {
     if (image) {
-      loadImage(image.path);
+      loadImage(image.thumbnail);
     } else {
       setDisplayImage(null);
     }
@@ -55,26 +55,8 @@ const ImageModal: React.FC<ImageModalProps> = ({ image, onClose }) => {
     setError(null);
     
     try {
-      // For HEIC/HEIF files, we need to convert them
-      if (imagePath.toLowerCase().endsWith('.heic') || imagePath.toLowerCase().endsWith('.heif')) {
-        console.log('loading heic');
-        const response = await fetch(imagePath);
-        const blob = await response.blob();
-        
-        // Convert HEIC to JPEG
-        const jpegBlob = await heic2any({
-          blob,
-          toType: 'image/jpeg',
-          quality: 0.8
-        });
-        
-        // Create an object URL from the converted blob
-        const imageUrl = URL.createObjectURL(jpegBlob as Blob);
-        setDisplayImage(imageUrl);
-      } else {
-        // For other image formats, just use the path
-        setDisplayImage(imagePath);
-      }
+      // Just use the path directly since we're assuming it's a jpg
+      setDisplayImage(imagePath);
     } catch (err) {
       console.error('Error loading image:', err);
       setError('Failed to load image. The format may not be supported.');

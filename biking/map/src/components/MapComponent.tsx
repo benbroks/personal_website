@@ -71,11 +71,7 @@ const MapComponent: React.FC<MapComponentProps> = ({
         var startTime = performance.now();
         const response = await fetch('/images/metadata.json');
         const data = await response.json();
-        var endTime = performance.now();
-        console.log(endTime - startTime, 'after fetch');
         setImages(data.images);
-        var endTime2 = performance.now();
-        console.log(endTime2 - endTime, 'after setImages');
       } catch (err) {
         console.error('Error loading image metadata:', err);
       }

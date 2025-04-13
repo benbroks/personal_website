@@ -164,6 +164,9 @@ crazyguyonabike.com has a bunch of great day-by-day accounts of previous TransAm
 - Michael for joining the first 90 miles of the ride  
 - My dad, for joining me all the way through Virginia.  
 
+P.S. If you want to follow every step of the route via Google Street View, check out [this companion site](https://map.brooks.team).
+P.P.S. Check out [all 51 Strava posts](https://brooks.team/biking/strava) that comprised this journey.
+
 [image1]: </images/biking/before_and_after.png>
 
 [image2]: </images/biking/cross_country_map.png>

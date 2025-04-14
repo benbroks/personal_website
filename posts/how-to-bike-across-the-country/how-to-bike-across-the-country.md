@@ -156,12 +156,12 @@ crazyguyonabike.com has a bunch of great day-by-day accounts of previous TransAm
 
 ### Shoutouts
 
-- Mitali, for being my emotional support and safety line at every step of the trip, coming down all the way from New York to see me finish, and helping me edit my writing  
+- Mitali, for being my emotional support and safety line at every step of the trip, coming down all the way from New York to see me finish, and helping me edit my writing.
 - My mom, for checking in on me every day, dropping my dad off at the Kentucky border, and meeting up with us in Charlottesville and Yorktown.  
 - Mitali's parents, for hosting me before my ride, helping me pick up all kinds of random supplies, and driving me to the start.  
 - Eric & Georgia, for sending me off at Ocean Beach.  
-- Nate, for giving feedback on this write-up and joining me on the way to Sacramento  
-- Michael for joining the first 90 miles of the ride  
+- Nate, for giving feedback on this write-up and joining me on the way to Sacramento.  
+- Michael for joining the first 90 miles of the ride  .
 - My dad, for joining me all the way through Virginia.  
 
 P.S. If you want to follow every step of the route via Google Street View, check out [the companion site](https://map.brooks.team).
